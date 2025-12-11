@@ -26,7 +26,7 @@ Cloudflare test keys are included (commented out) for debugging.
 - No markup changes or CSS needed
 - No settings page required
 - Invisible widget (user never sees it)
-- Preserves AJAX validation
+- Preserves AJAX form validation
 - Blocks bots before submission
 
 ## Requirements
@@ -53,4 +53,5 @@ Your support makes a big difference!!
 
 Cheers, 
 Mark
+
 
