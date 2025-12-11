@@ -21,19 +21,24 @@ Cloudflare test keys are included (commented out) for debugging.
 
 ## Features
 
-- Works with all Gutenverse forms automatically
-- No markup changes needed
+- Works with Gutenverse forms automatically
+- Works with multiple forms per page
+- No markup changes or CSS needed
 - No settings page required
 - Invisible widget (user never sees it)
-- Challenge runs only when form is valid
-- Prevents spam before Gutenverse AJAX submit
+- Preserves AJAX validation
+- Blocks bots before submission
 
 ## Requirements
 
 - WordPress 6+
 - Gutenverse plugin (with guten-form-builder)
 - Cloudflare Turnstile site key
+
+## Notes
+This plugin performs client-side token injection only.
  
 ## License
 
 MIT License (free to modify + redistribute)
+
