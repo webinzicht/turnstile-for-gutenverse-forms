@@ -45,13 +45,17 @@ MIT License (free to modify + redistribute)
 ## Support
 
 Enjoying this plugin?
-If it saved you time, you can support the project here:  
+
+If it saved you some time: 
+
 ☕ <a href="https://www.buymeacoffee.com/wizmark" rel="nofollow">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow" alt="Buy Me a Coffee" />
 </a>
+
 Your support makes a big difference!!
 
 Cheers, 
 Mark
+
 
 
