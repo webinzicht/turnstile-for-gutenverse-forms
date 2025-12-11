@@ -32,7 +32,7 @@ Cloudflare test keys are included (commented out) for debugging.
 ## Requirements
 
 - WordPress 6+
-- Gutenverse plugin (with guten-form-builder)
+- Gutenverse plugin with Gutenverse Forms plugin
 - Cloudflare Turnstile site key
 
 ## Notes
@@ -53,3 +53,4 @@ Your support makes a big difference!!
 
 Cheers, 
 Mark
+
